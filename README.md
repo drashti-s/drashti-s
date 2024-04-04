@@ -1,6 +1,6 @@
 - 👋 Hi, I’m drashti suthar;
 - 👀 I’m interested in designing and coading;
-- 🌱 I’m currently learning python and php;
+- 🌱 I’m currently learning different computer langauges ;
 - 📫 reach me with my mail id : drashtiksuthar@gmail.com;
 
 <!---
